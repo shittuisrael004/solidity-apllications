@@ -11,7 +11,7 @@ Applications of solidity learning with Smart Contract Programmer on https://soli
         - approve and revoke approval of pending transactions
         - anyone can execute a transaction after enough owners has approved it.
 3. Merkle Tree
-    -
+    - Merkle tree allows you to cryptographically prove that an element is contained in a set without revealing the entire set.
 4. Iterable Mapping
     - 
 5. ERC20
